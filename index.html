@@ -66,10 +66,11 @@
 
 		<!-- START: HOME -->		
     	<section class="section-home" id="home">
-    		<div class="overlay d-flex justify-content-center align-items-center">
+    		<div class="overlay d-flex justify-content-center align-items-start">
     			<div class="overlay-wrap container text-left">
-	    			<span class="hello mb-3">Hola, Soy Astrid</span>
-	 	   			<h1 class="mb-5">Transmito tu esencia<br> en las redes sociales <!--<span class="typed" data-elements="de Coaches,de Psicólogos,de Terapeutas"></span>--></h1>
+	    			<span class="hello mb-3 mt-5">Hola, Soy Astrid</span>
+	 	   			<h1 class="mb-5 d-none d-sm-block">Transmito tu esencia<br> en las redes sociales <!--<span class="typed" data-elements="de Coaches,de Psicólogos,de Terapeutas"></span>--></h1>
+	 	   			<h1 class="mb-5 d-block d-sm-none"><span class="typed" data-elements="Marketing,Community Manager,Branding"></span></h1>
 	 	   			<a href="#contact" class="btn">¿Hablamos?</a>
  	   			</div>
  	   		</div>
@@ -783,7 +784,7 @@
 			function success() {
 				form.reset();
 				button.style = "display: none ";
-				status.innerHTML = "¡Gracias! En breve me pondré ven contacto contigo";
+				status.innerHTML = "¡Gracias! En breve me pondré en contacto contigo";
 			}
 
 			function error() {
