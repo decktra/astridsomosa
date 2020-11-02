@@ -3,3 +3,7 @@
 .logo {
     height: 60px;
 }
+
+h1.cover-text {
+    font-size: 45px;
+}
