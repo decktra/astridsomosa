@@ -275,7 +275,7 @@ a {
     font-weight: 700;
     padding-bottom: 0px;
     margin-bottom: 60px;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     letter-spacing: 1px;
 }
 
