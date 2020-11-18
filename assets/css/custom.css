@@ -7,3 +7,7 @@
 h1.cover-text {
     font-size: 45px;
 }
+
+h1.cover-text-sm {
+  font-size: 4vh;
+}
