@@ -1109,6 +1109,10 @@ li.active:after {
     color: #fff;
 }
 
+.cta-banner-1 {
+    background: url(../images/cta-banner-1.png);
+}
+
 /* ---------------------------------------------- 
 * 10. Resume
 /* ---------------------------------------------- */
@@ -1573,5 +1577,9 @@ li.active:after {
         background-repeat: no-repeat;
         position: relative;
         z-index: 0;
+    }
+
+    .cta-banner-1 {
+        background: url(../images/cta-banner-1.png);
     }
 }
