@@ -1569,17 +1569,4 @@ li.active:after {
         background-size: cover;
         background-position: center;
     }
-
-    .section-freelance {
-        background: url(../images/freelance-sm.png);
-        background-size: cover;
-        background-attachment: fixed;
-        background-repeat: no-repeat;
-        position: relative;
-        z-index: 0;
-    }
-
-    .cta-banner-1 {
-        background: url(../images/cta-banner-1.png);
-    }
 }
