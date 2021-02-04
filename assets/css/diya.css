@@ -1565,7 +1565,7 @@ li.active:after {
     .section-home {
         height: 100vh;
         position: relative;
-        background-image: url("../images/banner-sm.png");
+        background-image: url("../images/banner-sm.webp");
         background-size: cover;
         background-position: center;
     }
