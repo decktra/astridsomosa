@@ -163,9 +163,9 @@ h5 {
 }
 
 h6 {
-    font-size: 14px;
+    font-size: 10px;
     letter-spacing: 1px;
-    font-weight: 400;
+    font-weight: 200;
 }
 
 img {
@@ -523,7 +523,7 @@ a {
 .section-home {
     height: 100vh;
     position: relative;
-    background-image: url("../images/banner.jpg");
+    background-image: url("../images/banner.webp");
     background-size: cover;
     background-position: center;
 }
@@ -1565,7 +1565,7 @@ li.active:after {
     .section-home {
         height: 100vh;
         position: relative;
-        background-image: url("../images/banner-sm.webp");
+        background-image: url("../images/banner-sm.png");
         background-size: cover;
         background-position: center;
     }
