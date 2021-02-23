@@ -1085,7 +1085,7 @@ li.active:after {
 
 
 .section-freelance {
-    background: url(../images/bannercta.jpg);
+    background: url(../images/bannercta.webp);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -1110,7 +1110,7 @@ li.active:after {
 }
 
 .cta-banner-1 {
-    background: url(../images/cta-banner-1.png);
+    background: url(../images/cta-banner-1.webp);
 }
 
 /* ---------------------------------------------- 
@@ -1565,7 +1565,7 @@ li.active:after {
     .section-home {
         height: 100vh;
         position: relative;
-        background-image: url("../images/banner-sm.png");
+        background-image: url("../images/banner-sm.webp");
         background-size: cover;
         background-position: center;
     }
