@@ -1067,7 +1067,7 @@ li.active:after {
 }
 
 .services-list-4 {
-    background-image: url("../images/gestion_anuncios.png");
+    background-image: url("../images/publicidad.png");
 }
 
 .services-list-5 {
@@ -1565,7 +1565,7 @@ li.active:after {
     .section-home {
         height: 100vh;
         position: relative;
-        background-image: url("../images/banner-sm.webp");
+        background-image: url("../images/banner-sm.png");
         background-size: cover;
         background-position: center;
     }
